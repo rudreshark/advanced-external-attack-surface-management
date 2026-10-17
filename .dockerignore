@@ -1,0 +1,17 @@
+node_modules
+.next
+.git
+.gitignore
+*.md
+!README.md
+!LICENSE
+docker-compose.yml
+Dockerfile
+.dockerignore
+db/*.db
+db/*.db-journal
+tool-results/
+worklog.md
+examples/
+tests/
+download/easm.py
